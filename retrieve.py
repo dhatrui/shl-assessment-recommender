@@ -22,10 +22,11 @@ def recommend_assessments(query, top_k=5):
 
 
 if __name__ == "__main__":
-    query = "Graduate hiring for analytical roles"
+    query = input("Enter hiring requirement: ")
+
     recs = recommend_assessments(query)
 
     for r in recs:
-        print("\n - ", r["name"])
+        print("\n-", r["name"])
         print("Category:", r["category"])
         print("Use cases:", ", ".join(r["use_cases"]))
