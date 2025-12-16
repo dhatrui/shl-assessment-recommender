@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Verify G+",
+    "category": "Cognitive Ability",
+    "measures": ["General mental ability", "Problem solving", "Learning ability"],
+    "job_levels": ["Entry", "Mid"],
+    "use_cases": ["Early screening", "High-volume hiring"],
+    "description": "Assesses general cognitive ability including reasoning and problem-solving skills across job roles."
+  },
+  {
+    "name": "Verify Numerical Ability",
+    "category": "Cognitive Ability",
+    "measures": ["Numerical reasoning", "Data interpretation"],
+    "job_levels": ["Entry", "Mid"],
+    "use_cases": ["Analyst hiring", "Finance roles"],
+    "description": "Measures a candidate’s ability to understand, interpret, and analyze numerical data."
+  },
+  {
+    "name": "Verify Verbal Ability",
+    "category": "Cognitive Ability",
+    "measures": ["Verbal reasoning", "Comprehension"],
+    "job_levels": ["Entry", "Mid"],
+    "use_cases": ["Customer-facing roles", "Professional hiring"],
+    "description": "Evaluates understanding and reasoning using written information."
+  },
+  {
+    "name": "Verify Inductive Reasoning",
+    "category": "Cognitive Ability",
+    "measures": ["Abstract reasoning", "Pattern recognition"],
+    "job_levels": ["Entry", "Mid"],
+    "use_cases": ["Problem-solving roles", "Technical hiring"],
+    "description": "Assesses the ability to identify patterns and logical rules in unfamiliar information."
+  },
+  {
+    "name": "OPQ32 Personality Questionnaire",
+    "category": "Personality",
+    "measures": ["Work behavior", "Personality traits"],
+    "job_levels": ["All levels"],
+    "use_cases": ["Role fit", "Leadership development"],
+    "description": "Measures preferred behavioral styles at work and predicts performance across roles."
+  },
+  {
+    "name": "Motivation Questionnaire (MQ)",
+    "category": "Personality",
+    "measures": ["Motivational drivers", "Work preferences"],
+    "job_levels": ["All levels"],
+    "use_cases": ["Engagement analysis", "Talent development"],
+    "description": "Identifies what motivates individuals in the workplace and what drives performance."
+  },
+  {
+    "name": "Situational Judgement Test (SJT)",
+    "category": "Behavioral",
+    "measures": ["Decision making", "Judgement", "Workplace behavior"],
+    "job_levels": ["Entry", "Mid"],
+    "use_cases": ["Role-specific screening", "Behavioral assessment"],
+    "description": "Assesses judgement in realistic workplace scenarios by evaluating response choices."
+  },
+  {
+    "name": "Universal Competency Framework (UCF)",
+    "category": "Behavioral",
+    "measures": ["Competencies", "Workplace effectiveness"],
+    "job_levels": ["Mid", "Senior"],
+    "use_cases": ["Talent development", "Succession planning"],
+    "description": "Framework-based assessment measuring core competencies relevant to workplace success."
+  },
+  {
+    "name": "Leadership Assessment",
+    "category": "Leadership",
+    "measures": ["Leadership potential", "People management"],
+    "job_levels": ["Senior"],
+    "use_cases": ["Leadership hiring", "Succession planning"],
+    "description": "Evaluates leadership capability, decision-making, and people management skills."
+  },
+  {
+    "name": "Sales Enablement Assessment",
+    "category": "Job-focused",
+    "measures": ["Sales aptitude", "Customer orientation"],
+    "job_levels": ["Entry", "Mid"],
+    "use_cases": ["Sales hiring", "Commercial roles"],
+    "description": "Measures skills and behaviors linked to success in sales roles."
+  },
+  {
+    "name": "Customer Service Assessment",
+    "category": "Job-focused",
+    "measures": ["Customer handling", "Communication"],
+    "job_levels": ["Entry"],
+    "use_cases": ["Customer support hiring"],
+    "description": "Assesses service orientation and communication skills for customer-facing roles."
+  },
+  {
+    "name": "IT & Coding Skills Assessment",
+    "category": "Skills",
+    "measures": ["Programming skills", "Technical knowledge"],
+    "job_levels": ["Entry", "Mid"],
+    "use_cases": ["Technical screening", "Developer hiring"],
+    "description": "Evaluates hands-on technical and coding capabilities relevant to IT roles."
+  },
+  {
+    "name": "Data Analysis Skills Assessment",
+    "category": "Skills",
+    "measures": ["Data interpretation", "Analytical thinking"],
+    "job_levels": ["Entry", "Mid"],
+    "use_cases": ["Analyst hiring", "Data roles"],
+    "description": "Assesses the ability to analyze and interpret data for business decision-making."
+  },
+  {
+    "name": "Mechanical Reasoning Test",
+    "category": "Cognitive Ability",
+    "measures": ["Mechanical comprehension", "Applied reasoning"],
+    "job_levels": ["Entry"],
+    "use_cases": ["Engineering roles", "Technical trades"],
+    "description": "Measures understanding of mechanical concepts and physical principles."
+  },
+  {
+    "name": "Safety & Reliability Assessment",
+    "category": "Behavioral",
+    "measures": ["Risk awareness", "Safety behavior"],
+    "job_levels": ["Entry", "Mid"],
+    "use_cases": ["Safety-critical roles"],
+    "description": "Assesses behaviors and attitudes related to safety and reliability at work."
+  },
+  {
+    "name": "Workplace Integrity Assessment",
+    "category": "Behavioral",
+    "measures": ["Ethical judgement", "Integrity"],
+    "job_levels": ["All levels"],
+    "use_cases": ["Risk reduction", "Trust-based roles"],
+    "description": "Evaluates attitudes toward honesty, compliance, and ethical workplace behavior."
+  },
+  {
+    "name": "Time Management Assessment",
+    "category": "Behavioral",
+    "measures": ["Planning", "Prioritization"],
+    "job_levels": ["Entry", "Mid"],
+    "use_cases": ["Productivity-focused roles"],
+    "description": "Measures effectiveness in managing time, tasks, and priorities."
+  },
+  {
+    "name": "Remote Work Readiness Assessment",
+    "category": "Behavioral",
+    "measures": ["Self-management", "Adaptability"],
+    "job_levels": ["All levels"],
+    "use_cases": ["Remote hiring"],
+    "description": "Assesses readiness and effectiveness for remote and hybrid work environments."
+  },
+  {
+    "name": "Graduate Potential Assessment",
+    "category": "Cognitive Ability",
+    "measures": ["Learning agility", "Problem solving"],
+    "job_levels": ["Entry"],
+    "use_cases": ["Campus hiring", "Graduate programs"],
+    "description": "Designed to assess potential and learning ability in early-career candidates."
+  },
+  {
+    "name": "Managerial Decision-Making Assessment",
+    "category": "Leadership",
+    "measures": ["Strategic thinking", "Decision making"],
+    "job_levels": ["Mid", "Senior"],
+    "use_cases": ["Managerial hiring"],
+    "description": "Evaluates decision-making and judgement required for managerial responsibilities."
+  }
+]
