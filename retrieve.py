@@ -64,7 +64,7 @@ def rag_recommendation(query, top_k=3):
 
     return response
 
-query = "Assessment for graduate roles requiring numerical reasoning"
+query = input("Enter hiring requirement / query: ")
 results = search_assessments(query, top_k=3)
 
 for i, res in enumerate(results, 1):

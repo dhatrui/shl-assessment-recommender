@@ -27,4 +27,4 @@ index.add(embeddings)
 
 faiss.write_index(index, "shl.index")
 
-print("✅ Local embeddings + FAISS index created")
+print("Local embeddings + FAISS index created")
