@@ -1,0 +1,10 @@
+query,rank,assessment_name,score
+Assessment for graduate roles requiring numerical reasoning,1,Graduate Potential Assessment,0.592
+Assessment for graduate roles requiring numerical reasoning,2,Verify Numerical Ability,0.587
+Assessment for graduate roles requiring numerical reasoning,3,Verify Inductive Reasoning,0.536
+Cognitive tests for problem solving and logical reasoning,1,Verify Inductive Reasoning,0.539
+Cognitive tests for problem solving and logical reasoning,2,Mechanical Reasoning Test,0.485
+Cognitive tests for problem solving and logical reasoning,3,Verify G+,0.431
+Assessments for entry-level analytical and finance roles,1,Verify Numerical Ability,0.62
+Assessments for entry-level analytical and finance roles,2,Data Analysis Skills Assessment,0.557
+Assessments for entry-level analytical and finance roles,3,Graduate Potential Assessment,0.476
